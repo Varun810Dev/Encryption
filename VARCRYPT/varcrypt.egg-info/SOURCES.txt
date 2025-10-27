@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+varcrypt/__init__.py
+varcrypt/main.py
+varcrypt.egg-info/PKG-INFO
+varcrypt.egg-info/SOURCES.txt
+varcrypt.egg-info/dependency_links.txt
+varcrypt.egg-info/entry_points.txt
+varcrypt.egg-info/requires.txt
+varcrypt.egg-info/top_level.txt
